@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 2;
+    background-image: url("Imagenes-Arte_Dibujo/fondo.webp");
+}
+
+h1{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7em;
+}
+
+
+button{
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 1px 10px;
+    border-radius: 5px;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    color: white;
+    background-color: blueviolet;
+}
+
+button:hover{
+    background-color: rgb(101, 33, 165);
+}
+
+.color-acento{ color:blueviolet; }
+
+
+
+
+.title{
+    
+    display: inline;
+    margin: 310px 310px;
+    font-size: 30px;
+    
+    
+}
+.caja1{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+.caja2{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+
+    
+    
+}
+.caja3{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+
+.caja4{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+
+.caja5{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+
+.caja6{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+
+.caja7{
+
+    background-color: rgb(245,245,245);
+    width: 705px;
+    height: 705px;
+    float: left;
+    border-radius: 5px;
+    margin: 110px;
+    
+}
+.image{
+    margin: 10px 10px;
+    height: 650px;
+    width: 97.5%;
+    border-radius: 5px;
+    
+}
+
+
+
